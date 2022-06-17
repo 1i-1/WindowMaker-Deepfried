@@ -7,7 +7,7 @@
 # Icons
 
 <p align="center">
-  <img src="https://github.com/1i-1/WindowMaker-Deepfried/blob/main/icons/icons.png"/>
+  <img src="https://github.com/1i-1/WindowMaker-Deepfried/blob/main/screenshots/icons.png"/>
 </p>
 
 # Packages
