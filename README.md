@@ -11,4 +11,5 @@
 </p>
 
 # Packages
+[Firefox](https://addons.mozilla.org/en-US/firefox/addon/deepfried/)
 wmcalclock, wmshutdown, wmix, wmstickynotes, WindowMaker, GNUstep, GTK Files, Fonts
