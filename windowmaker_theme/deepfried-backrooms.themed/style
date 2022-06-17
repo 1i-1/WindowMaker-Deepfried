@@ -1,0 +1,37 @@
+{
+  FrameBorderColor = "#b49069";
+  FTitleColor = "#fefad0";
+  MenuTitleBack = (tpixmap, deepfried_texture.jpg, "#857c41");
+  MenuDisabledColor = "#2a2121";
+  IconTitleBack = "#f0f111";
+  FTitleBack = (tpixmap, deepfried_texture4.jpg, "#9c9358");
+  ClipTitleFont = "vtks giz:slant=0:weight=80:width=100:pixelsize=12";
+  ClipTitleColor = "#f0f111";
+  FrameFocusedBorderColor = "#bb8e2c";
+  IconTitleFont = "vtks giz:slant=0:weight=80:width=100:pixelsize=9";
+  HighlightColor = "#efeeab";
+  WindowTitleFont = "vtks giz:slant=0:weight=80:width=100:pixelsize=14";
+  MenuTextBack = (tpixmap, deepfried_texture2.jpg, "#cfcca2");
+  LargeDisplayFont = "vtks giz:slant=0:weight=80:width=100:pixelsize=24";
+  CClipTitleColor = "#999999";
+  MenuStyle = normal;
+  ResizebarBack = (tpixmap, deepfried_texture3.jpg, "#6b5f18");
+  IconTitleColor = "#4d2002";
+  TitleJustify = center;
+  MenuTextColor = "#6b5f18";
+  MenuTextExtendSpace = 0;
+  PTitleBack = (tpixmap, deepfried_texture4.jpg, "#9c9358");
+  IconBack = (tpixmap, deepfried_texture.jpg, "#d7d3a2");
+  MenuTitleColor = "#f1ecb6";
+  UTitleColor = "#8b853c";
+  MenuTitleFont = "vtks giz:slant=0:weight=80:width=100:pixelsize=14";
+  UTitleBack = (tpixmap, deepfried_texture5.jpg, "#cfcca2");
+  WindowTitleExtendSpace = 0;
+  NormalCursor = (builtin, left_ptr);
+  PTitleColor = "#f9fea7";
+  MenuTitleExtendSpace = 0;
+  MenuTextFont = "vtks giz:slant=0:weight=80:width=100:pixelsize=14";
+  WorkspaceBack = (spixmap, deepfried_backrooms.jpg, gray20);
+  FrameSelectedBorderColor = "#ffffff";
+  HighlightTextColor = "#4d201a";
+}
