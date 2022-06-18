@@ -1,9 +1,13 @@
 # WindowMaker-Deepfried
+
 # Gallery
+
 ##### Desktop:
 ![desktop with windows](/screenshots/desktop-1.png)
+
 ##### Desktop (Empty):
 ![desktop with no windows](/screenshots/desktop-2.png)
+
 # Icons
 
 <p align="center">
